@@ -199,6 +199,10 @@
     font-size: large;
 }
 
+.header-text:hover {
+    color: #000000; /* Change color to black on hover */
+  }
+
 .icon-link{
     color:#057C82;
 }
@@ -296,4 +300,4 @@
     font-weight:bold;
 } */
 
-
+  
